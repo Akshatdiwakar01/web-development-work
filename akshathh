@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>B.TECH COURCE IMFORMATION</title>
+</head>
+<body>
+<P> The b.tech cource teaches computer science and engineering and software development</P>
+   <p> <b>programing</b>and web technology are important subject 
+</P>
+
+<h3>SUBJECTS</h3>
+<ol>
+    <li>Web technology</li>
+    <li>Programming in C</li>
+    <li>Database management</li>
+</ol>
+
+<h3>COURCE OBJECTIVE</h3>
+<ul>
+    <li>Learn programing basics</li>
+    <li>Develop simple websites</li>
+</ul>
+
+@2026 B.tech department 
+</body>
+</html>
